@@ -11,9 +11,9 @@ Based on Leetcode challenges
 
 ## Contents
 
-- <b>Day 1</b> - [2619. Array Prototype Last](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%201)
+- <b>Day 1</b> - [2619. Array Prototype Last](hhttps://github.com/LinSchmitz/100-Days/tree/main/Day%201)
 
-- <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%202)
+- <b>Day 2</b> - [2](https://github.com/LinSchmitz/100-Days/tree/main/Day%202)
 
 <p align="center">
 Please ⭐ this repository if you loved it !
