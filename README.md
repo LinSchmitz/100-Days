@@ -196,15 +196,11 @@ Based on Leetcode challenges
 - <b>Day 92</b> - [Professional Portfolio Project - (Web Scraping)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2092)
 
 <p align="center">
-Last Updated : March 29, 2022
-</p>
-
-<p align="center">
 Please ⭐ this repository if you loved it !
 <br>
 < Happy Coding />
 <br>
-<b>Ashutosh Krishna<b>
+<b>Lin Schmitz<b>
 <br>
-<a href="https://ashutoshkrris.netlify.com">Portfolio</a> | <a href="https://github.com/ashutoshkrris">Github</a> | <a href="https://ashutoshkrris.medium.com">Medium</a>
+<a href="https://x.com/LinSchmtz">X</a> | <a href="https://github.com/LinSchmitz">Github</a>  
 </p>
