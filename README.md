@@ -11,7 +11,7 @@ Based on Leetcode challenges
 
 ## Contents
 
-- <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%201)
+- <b>Day 1</b> - [2619. Array Prototype Last](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%201)
 
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%202)
 
