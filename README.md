@@ -5,6 +5,10 @@
 Starting from : August 8, 2025
 </h5>
 
+<p align="center">
+Based on Leetcode challenges
+</p>
+
 ## Contents
 
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%201)
