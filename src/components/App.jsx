@@ -7,10 +7,15 @@ export default function App() {
       <p>Contents</p>
 
       <p>
-        <b>Day 1</b> - [2619. Array Prototype
-        Last](https://github.com/LinSchmitz/100-Days/tree/main/Day%201)
+        <a href="https://github.com/LinSchmitz/100-Days/tree/main/Day%201">
+          Day 1 - [2619. Array Prototype Last]
+        </a>
       </p>
       <p>Please ⭐ this repository if you loved it !</p>
+      <div>
+        <a href="https://x.com/LinSchmtz">X</a> |{' '}
+        <a href="https://github.com/LinSchmitz">Github</a>
+      </div>
     </div>
   );
 }
