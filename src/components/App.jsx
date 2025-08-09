@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function App() {
   return (
-    <div>
+    <div className="container">
       <p>Based on Leetcode challenges</p>
       <p>Contents</p>
 
@@ -12,10 +12,16 @@ export default function App() {
         </a>
       </p>
       <p>Please ⭐ this repository if you loved it !</p>
-      <div>
-        <a href="https://x.com/LinSchmtz">X</a> |{' '}
-        <a href="https://github.com/LinSchmitz">Github</a>
-      </div>
+      <Footer />
     </div>
+  );
+}
+
+function Footer() {
+  return (
+    <footer>
+      <a href="https://x.com/LinSchmtz">X</a> |
+      <a href="https://github.com/LinSchmitz">Github</a>
+    </footer>
   );
 }
